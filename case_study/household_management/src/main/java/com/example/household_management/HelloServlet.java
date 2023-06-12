@@ -1,4 +1,4 @@
-package com.example.case_study_3;
+package com.example.household_management;
 
 import java.io.*;
 import javax.servlet.http.*;
